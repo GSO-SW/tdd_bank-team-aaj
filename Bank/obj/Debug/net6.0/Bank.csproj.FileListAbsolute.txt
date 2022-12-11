@@ -1,0 +1,15 @@
+C:\Users\Donge\Desktop\GSO\3.Überstufe\SWE\GIT\ZusammenArbeit AAJ\tdd_bank-team-aaj\Bank\bin\Debug\net6.0\Bank.exe
+C:\Users\Donge\Desktop\GSO\3.Überstufe\SWE\GIT\ZusammenArbeit AAJ\tdd_bank-team-aaj\Bank\bin\Debug\net6.0\Bank.deps.json
+C:\Users\Donge\Desktop\GSO\3.Überstufe\SWE\GIT\ZusammenArbeit AAJ\tdd_bank-team-aaj\Bank\bin\Debug\net6.0\Bank.runtimeconfig.json
+C:\Users\Donge\Desktop\GSO\3.Überstufe\SWE\GIT\ZusammenArbeit AAJ\tdd_bank-team-aaj\Bank\bin\Debug\net6.0\Bank.dll
+C:\Users\Donge\Desktop\GSO\3.Überstufe\SWE\GIT\ZusammenArbeit AAJ\tdd_bank-team-aaj\Bank\bin\Debug\net6.0\Bank.pdb
+C:\Users\Donge\Desktop\GSO\3.Überstufe\SWE\GIT\ZusammenArbeit AAJ\tdd_bank-team-aaj\Bank\obj\Debug\net6.0\Bank.csproj.AssemblyReference.cache
+C:\Users\Donge\Desktop\GSO\3.Überstufe\SWE\GIT\ZusammenArbeit AAJ\tdd_bank-team-aaj\Bank\obj\Debug\net6.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Donge\Desktop\GSO\3.Überstufe\SWE\GIT\ZusammenArbeit AAJ\tdd_bank-team-aaj\Bank\obj\Debug\net6.0\Bank.AssemblyInfoInputs.cache
+C:\Users\Donge\Desktop\GSO\3.Überstufe\SWE\GIT\ZusammenArbeit AAJ\tdd_bank-team-aaj\Bank\obj\Debug\net6.0\Bank.AssemblyInfo.cs
+C:\Users\Donge\Desktop\GSO\3.Überstufe\SWE\GIT\ZusammenArbeit AAJ\tdd_bank-team-aaj\Bank\obj\Debug\net6.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\Donge\Desktop\GSO\3.Überstufe\SWE\GIT\ZusammenArbeit AAJ\tdd_bank-team-aaj\Bank\obj\Debug\net6.0\Bank.dll
+C:\Users\Donge\Desktop\GSO\3.Überstufe\SWE\GIT\ZusammenArbeit AAJ\tdd_bank-team-aaj\Bank\obj\Debug\net6.0\refint\Bank.dll
+C:\Users\Donge\Desktop\GSO\3.Überstufe\SWE\GIT\ZusammenArbeit AAJ\tdd_bank-team-aaj\Bank\obj\Debug\net6.0\Bank.pdb
+C:\Users\Donge\Desktop\GSO\3.Überstufe\SWE\GIT\ZusammenArbeit AAJ\tdd_bank-team-aaj\Bank\obj\Debug\net6.0\Bank.genruntimeconfig.cache
+C:\Users\Donge\Desktop\GSO\3.Überstufe\SWE\GIT\ZusammenArbeit AAJ\tdd_bank-team-aaj\Bank\obj\Debug\net6.0\ref\Bank.dll

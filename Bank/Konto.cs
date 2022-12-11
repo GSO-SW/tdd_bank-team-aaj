@@ -5,6 +5,23 @@ namespace Bank
     public class Konto
     {
         private int guthaben;
+        private int kontoNr;
+        static int anzahlKonten = 0;
+
+        public Konto(int guthaben)
+        {
+            if(guthaben >= 0)
+            {
+                this.guthaben = guthaben;
+                this.kontoNr = anzahlKonten + 1;
+                anzahlKonten++;
+            }
+            else
+            {
+                throw new ArgumentOutOfRangeException("Guthaben ist mit negativem Wert nicht möglich.");
+            }
+        }
+
 
         public int Guthaben
         {
@@ -14,16 +31,9 @@ namespace Bank
             }
         }
 
-        public Konto(int guthaben)
+        public int KontoNr
         {
-            if(guthaben < 0)
-            {
-                this.guthaben = guthaben;
-            }
-            else
-            {
-                throw new ArgumentOutOfRangeException("Guthaben nicht mit negativem Wert möglich");
-            }
+            get { return kontoNr; }
         }
 
         public void Einzahlen(int betrag)
@@ -34,7 +44,7 @@ namespace Bank
             }
             else
             {
-                throw new ArgumentOutOfRangeException("Keine Negativen Beträge");
+                throw new ArgumentOutOfRangeException("Keine Negativen Beträge.");
             }
             
         }
@@ -47,7 +57,7 @@ namespace Bank
             }
             else
             {
-                throw new ArgumentOutOfRangeException("Guthaben nicht ausreichend");
+                throw new ArgumentOutOfRangeException("Guthaben ist nicht ausreichend.");
             }
         }
     }

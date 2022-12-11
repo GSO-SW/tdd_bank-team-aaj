@@ -38,10 +38,9 @@ namespace Banktests
             // Act
             k1.Einzahlen(einzahlung_Betrag);
         }
+
         [TestMethod]
-
         [ExpectedException(typeof(ArgumentOutOfRangeException))]
-
         public void Konto_KannNichtMitNegativemBetragErstelltWerden()
 
         {
@@ -52,8 +51,6 @@ namespace Banktests
             Konto k = new Konto(guthaben);
 
         }
-
-
 
         [TestMethod]
 
@@ -71,8 +68,6 @@ namespace Banktests
             Assert.AreEqual(nummer_soll, nummer_ist);
 
         }
-
-
 
         [TestMethod]
         public void KontoNr_WirdAutomatischVergeben()
